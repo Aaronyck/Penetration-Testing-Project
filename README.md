@@ -1,2 +1,1 @@
-# Penetration-Testing-Project
-This script will conduct scanning for devices in a network, perform nmap NSE scripts (version and brute categories), searchsploits, hydra brute force (on certain protocols) and few common exploits
+This script will maps devices in a network for ports, services and vulnerability by performing nmap NSE scripts (version and brute categories), searchsploits, hydra brute force (on certain protocols) and few common exploits.
